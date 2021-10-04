@@ -1,3 +1,7 @@
+# forked copy of rpi-clone
+
+Forked on 10-4-2021 for own use
+
 ## rpi-clone
 Latest version: 2.0.22
 
